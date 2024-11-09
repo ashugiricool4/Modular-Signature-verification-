@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support, please open an issue in the GitHub repository or contact the maintainers.
 
 ---
-The woking flow of the signature verification System using webpage by connecting it with "Meta Mask".
+## The woking flow of the signature verification System using webpage by connecting it with "Meta Mask".
 
 ![image](https://github.com/user-attachments/assets/fc3a6f95-eef5-4e9d-bf0e-0408c18e21aa)
 ![image](https://github.com/user-attachments/assets/fcb25ea8-3806-4e8d-806c-a9df1717cb1d)
