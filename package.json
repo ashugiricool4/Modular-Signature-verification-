@@ -1,0 +1,17 @@
+{
+  "name": "modular-signature-verification",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "signatureVerifier.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.4",
+    "@noble/curves": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
