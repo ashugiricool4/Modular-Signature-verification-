@@ -157,8 +157,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support, please open an issue in the GitHub repository or contact the maintainers.
 
 ---
+The woking flow of the signature verification System using webpage by connecting it with "Meta Mask".
 
-Built with ❤️ for the blockchain community.
 ![image](https://github.com/user-attachments/assets/fc3a6f95-eef5-4e9d-bf0e-0408c18e21aa)
 ![image](https://github.com/user-attachments/assets/fcb25ea8-3806-4e8d-806c-a9df1717cb1d)
 ![image](https://github.com/user-attachments/assets/be3b5c3c-97d0-4c73-8584-2c5e22af9be5)
@@ -170,6 +170,7 @@ Built with ❤️ for the blockchain community.
 ![image](https://github.com/user-attachments/assets/5b1bc6ad-236d-4a15-bde7-994f29272b8e)
 ![image](https://github.com/user-attachments/assets/e7e6f9e5-3815-4f74-bab9-c5bb688fa021)
 
+Built with ❤️ for the blockchain community.
 
 
 
